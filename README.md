@@ -137,5 +137,4 @@ Alguien debe editar el archivo, decidir si queda rojo, azul o ambos, borrar los 
 ## Conclusión personal
 Entendí que los conflictos no son errores ni algo malo, sino una protección de Git para que no se pierda trabajo. Lo importante es comunicarse con el equipo, hacer merges seguido (no esperar semanas) y aprender a resolver conflictos con calma. Al final, es parte normal del trabajo en equipo y mientras más práctica, más fácil se vuelve.
 
-=======
-___
+
